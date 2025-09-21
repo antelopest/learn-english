@@ -10,3 +10,10 @@
 * B2 - Upper-Intermediate (Выше среднего)
 * C1 - Advanced (Продвинутый уровень)
 * C2 - Proficient (Владение в совершенстве)
+
+## Daily
+
+### Elementary
+
+* [20-September-2025](./2025/elementary/September/20-September-2025.md)
+* [21-September-2025](./2025/elementary/September/21-September-2025.md)
