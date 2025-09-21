@@ -14,11 +14,11 @@
 12. I need your help - Мне нужно твоя помощь
 13. I really enjoy listening to music - Я действительно обожаю слушать музыку
 14. I want to know English like a native speaker - Я хочу знать английский как носитель языка
-15. I want to know Englush like native speakers - Я хочу знать английский как носители языка
+15. I want to know English like native speakers - Я хочу знать английский как носители языка
 16. I prefer to do it more regularly - Я предпочитаю делать это регулярно
 17. I do these exercises because I don't want to make mistakes - Я делаю эти упражнения потому что я не хочу делать ошибки
 18. I do these exercises because I want to speak Englsh correctly - Я делаю эти упражнения потому что я хочу говорить по английски правильно
-19. I do this kind of exercises because I want to speak Englush correctly - Я делаю упражнения такого рода потому что я хочу говорить по английски правильно
+19. I do this kind of exercises because I want to speak English correctly - Я делаю упражнения такого рода потому что я хочу говорить по английски правильно
 20. I watch this kind of exercises because I want to speak English correctly - Я смотрю упражнения такого рода потому что я хочу говорить по английски правильно
 21. I watch this kind of exercises because I get real knowledge here - Я смотрю упражнения такого рода потому что я получаю реальные знания здесь
 
