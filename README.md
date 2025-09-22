@@ -17,3 +17,4 @@
 
 * [20-September-2025](./2025/elementary/September/20-September-2025.md)
 * [21-September-2025](./2025/elementary/September/21-September-2025.md)
+* [22-September-2025](./2025/elementary/September/22-September-2025.md)
