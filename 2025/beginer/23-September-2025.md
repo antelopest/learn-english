@@ -29,3 +29,20 @@ I work and study - Я работаю и учусь
 
 We understand - Мы понимаем
 You know - Ты знаешь
+They see - Они видят
+
+## I/We/You/They + глагол + ...
+
+You know it - Ты знаешь это
+You know this/that - Ты знаешь это
+We travel every year - Мы путешествуем каждый год
+They live here - Они живут здесь
+
+## Устойчивые выражнения
+
+I speak English - Я говорю по-английски
+I go to work - Я хочу на работу
+I go to school - Я хочу в школу
+I go to university - Я хочу в университет
+I go to college - Я хожу в колледж
+
