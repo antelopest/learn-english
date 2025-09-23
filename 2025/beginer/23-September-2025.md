@@ -97,6 +97,18 @@ You - ты, вы
 
 - Я часто хожу туда - I often go there
 
+* sometimes - иногда
 
+- Я иногда играю в компьютер - I sometimes play PC games
+- Я делаю это иногда - I do it sometimes
 
+* sometimes - иногда
+* usually - обычно
+* often - часто
+* never - никогда
 
+## Порядок слов в предложениии с very well
+
+* very well - очень хорошо
+
+- Ты очень хорошо говоришь по английский - You speak English very well
