@@ -42,4 +42,4 @@
 40. I have a dream - У меня есть мечта
 41. I have a big dream - У меня есть большая мечта
 42. I have some plans - У меня есть некоторые планы
-43. I have real knowledge which I get here - У меня есть реальные знания которые я получаю здесь 
+43. I have real knowledge which I get here - У меня есть реальные знания которые я получаю здесь
